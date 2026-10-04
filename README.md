@@ -11,8 +11,6 @@
     </div>
 </section>
 
-<footer>
-    <p>© 2025 Website Của Tôi — Tạo bởi Dola</p>
 </footer>
 
 <script>
